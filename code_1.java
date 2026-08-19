@@ -3,7 +3,7 @@
 
 public class code_1 { 
     public static void main (String[] args) {
-      String name = "Manan";
+      String name = "shribash";
       int roll_number = 06;
       int statistics = 80;
       int spanish = 90;
